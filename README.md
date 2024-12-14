@@ -1,5 +1,5 @@
 <h3>Hi there 👋 </h3>
-<p>Hi, <b>I'm Danielle</b>,<br>
+<p><b>I'm Danielle</b>,<br>
 a passionate and dedicated QA Tester with experience in manual testing, combined with a fresh skill set in test automation. <br>
 Recently, I completed an automation course, where I gained proficiency in using Java, Selenium, and Eclipse to design and implement automated test scripts.<br>
   This has expanded my ability to enhance the efficiency and accuracy of testing processes while contributing to faster release cycles.<br> </p>
